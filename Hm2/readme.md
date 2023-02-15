@@ -7,7 +7,7 @@ $$O_1 = (0,0)$$
 $$A = (O_1Acos(\omega_{O_1A}\phi),O_1Asin(\omega_{O_1A}\phi))$$
 
 We can get point B from the following system:
-
+$$
 \begin{equation}
 \begin{cases}
 
@@ -17,6 +17,7 @@ x_B = 0
 
 \end{cases}\.
 \end{equation}
+$$
 We will get 2 solutions for this system, we will take the one with the higher $y_B$
 This system can be solved numerically using libraries in Python like Sympy
 
