@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/m4mou/Documents/TheoreticalMechanics/Hm2/media/videos/Task1/480p15/partial_movie_files/simulation2/4266129954_3751510144_3669912976.mp4'
-file 'file:/home/m4mou/Documents/TheoreticalMechanics/Hm2/media/videos/Task1/480p15/partial_movie_files/simulation2/1442284246_329969645_1675468563.mp4'
