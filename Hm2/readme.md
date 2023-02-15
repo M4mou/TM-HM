@@ -10,10 +10,13 @@ We can get point B from the following system:
 
 
 \begin{cases}
+
 (x_B - x_A)^2 + (y_B - y_A)^2 = AB^2
 \\
 x_B = 0
+
 \end{cases}
+
 We will get 2 solutions for this system, we will take the one with the higher $y_B$
 This system can be solved numerically using libraries in Python like Sympy
 
